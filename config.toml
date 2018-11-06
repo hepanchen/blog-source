@@ -1,4 +1,4 @@
 baseURL = "http://hepanchen.github.io/"
 languageCode = "en-us"
 title = "Hpc Site"
-theme = "rusty"
+theme = "AllinOne"
