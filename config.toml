@@ -1,0 +1,4 @@
+baseURL = "http://hepanchen.github.io/"
+languageCode = "en-us"
+title = "Hpc Blog"
+theme = "ananke"
