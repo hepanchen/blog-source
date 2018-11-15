@@ -3,6 +3,9 @@ title: "Github pages +  Hugo配置"
 date: 2018-11-07T16:35:24+08:00
 draft: true
 ---
+
+![](hugo配置-0c547.png)
+
 # Github pages 配置
 
 * 创建以用户名开头+.github.io的项目
